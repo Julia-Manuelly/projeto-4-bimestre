@@ -1,6 +1,6 @@
-# Vida Ativa
+Vida Ativa
 
-# Visão do Sistema
+Visão do Sistema
 
 O Vida Ativa é um aplicativo feito para ajudar as pessoas a terem uma vida mais saudável de forma simples.
 
@@ -14,11 +14,11 @@ Com ele, o usuário pode:
 
 Os dados do usuário podem ser salvos usando banco de dados, permitindo guardar informações mesmo depois de fechar o app.
 
-# Objetivo do Projeto
+Objetivo do Projeto
 
 Criar um aplicativo simples que ajude as pessoas a se exercitarem e se alimentarem melhor, tudo em um só lugar.
 
-# Funcionalidades
+Funcionalidades
 
 - Cadastro de dados do usuário
 - Treinos (cardio, musculação, etc.)
@@ -28,7 +28,7 @@ Criar um aplicativo simples que ajude as pessoas a se exercitarem e se alimentar
 - Salvamento de dados no banco
 
 
-# Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - React Native
 - JavaScript
@@ -36,7 +36,7 @@ Criar um aplicativo simples que ajude as pessoas a se exercitarem e se alimentar
 - React Navigation
 - Banco de dados
 
-# Equipe
+Equipe
 
 Integrante 1 - Maria Luiza: Faz as telas do app.                
 Integrante 2 - Júlia Manuelly: Faz a lógica e integração com banco.
