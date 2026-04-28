@@ -5,7 +5,7 @@ O Vida Ativa é um aplicativo feito para ajudar as pessoas a terem uma vida mais
 
 Com ele, o usuário pode:
 
-1.Colocar seus dados (nome, idade, peso, altura, etc.)
+1.Colocar seus dados (nome, idade, peso, altura, etc.) 
 2.Escolher seu objetivo (emagrecer, ganhar massa, melhorar a saúde)
 3.Ver treinos separados por tipo
 4.Ver sugestões de alimentação
