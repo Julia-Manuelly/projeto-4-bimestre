@@ -29,7 +29,6 @@ Funcionalidades
 
 
 Tecnologias Utilizadas
-
 - React Native
 - JavaScript
 - Context API
